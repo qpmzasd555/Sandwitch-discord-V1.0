@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "c44e82b9a7bd6739",
+    "type": "split",
+    "children": [
+      {
+        "id": "f42a524653629afd",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1433b86f9023544",
+    "type": "split",
+    "children": [
+      {
+        "id": "646fc582285a4833",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fc48d7b75e2975a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1b69dc22f6bd7921",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 402
+  },
+  "right": {
+    "id": "af95245c5b1ce405",
+    "type": "split",
+    "children": [
+      {
+        "id": "8453351137f5b257",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cb7810738e08688",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f42a524653629afd",
+  "lastOpenFiles": [
+    "События/- События.md",
+    "Участники/- Участники.md",
+    "Роли/- Роли.md",
+    "События/(2022.02.13) Рекордное время 2.md",
+    "Роли/Запивон и закусон.md",
+    "Роли/Диско-коп.md",
+    "События/(-) Война Sandwitch с кустом.md",
+    "Участники/lev [Пони].md",
+    "Res/Imgs/Оппозиция.jpeg",
+    "Участники/RomantiKZ.md"
+  ]
+}
