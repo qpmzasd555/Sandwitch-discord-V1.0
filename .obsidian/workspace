@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Роли/Дураки.md",
+            "file": "Роли/- Роли.md",
             "mode": "preview",
             "source": false
           }
@@ -69,13 +69,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Роли/Дураки.md",
+                "file": "Роли/- Роли.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -84,16 +84,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "f42a524653629afd",
   "lastOpenFiles": [
+    "Роли/- Роли.md",
     "Роли/Дураки.md",
     "Роли/Запивон и закусон.md",
     "Роли/Цирк.md",
     "Роли/Диско-коп.md",
-    "Роли/- Роли.md",
     "Участники/- Участники.md",
     "События/- События.md",
     "События/(2022.02.13) Рекордное время 2.md",
