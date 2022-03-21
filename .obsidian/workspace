@@ -7,8 +7,12 @@
         "id": "f42a524653629afd",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Роли/Дураки.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Роли/Дураки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "f42a524653629afd",
   "lastOpenFiles": [
+    "Роли/Дураки.md",
+    "Роли/Диско-коп.md",
+    "Роли/- Роли.md",
     "Участники/- Участники.md",
     "События/- События.md",
-    "Роли/- Роли.md",
     "События/(2022.02.13) Рекордное время 2.md",
     "Роли/Запивон и закусон.md",
-    "Роли/Диско-коп.md",
     "События/(-) Война Sandwitch с кустом.md",
     "Участники/lev [Пони].md",
-    "Res/Imgs/Оппозиция.jpeg",
-    "Участники/RomantiKZ.md"
+    "Res/Imgs/Оппозиция.jpeg"
   ]
 }
