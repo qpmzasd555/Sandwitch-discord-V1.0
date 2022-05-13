@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1bb1bf0ae6a05655",
+        "id": "ec7118e8a9fc154f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Роли/гражданесегосервера.md",
-            "mode": "preview",
+            "file": "События/(2022.05.12) Тотальный игнор.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Роли/гражданесегосервера.md",
+                "file": "События/(2022.05.12) Тотальный игнор.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +87,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1bb1bf0ae6a05655",
+  "active": "ec7118e8a9fc154f",
   "lastOpenFiles": [
+    "События/(2022.05.12) Тотальный игнор.md",
     "Роли/гражданесегосервера.md",
     "Роли/Диско-коп.md",
     "Роли/- Роли.md",
@@ -97,7 +98,6 @@
     "Группировки/Цырк.md",
     "Группировки/Содружество ПОвесть.md",
     "Участники/кꙋстикъ ѻбыкновенный.md",
-    "Участники/Sandwitch.md",
-    "Роли/Запивон и закусон.md"
+    "Участники/Sandwitch.md"
   ]
 }
